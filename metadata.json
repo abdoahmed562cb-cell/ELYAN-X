@@ -1,0 +1,6 @@
+{
+  "name": "ELYAN X",
+  "description": "Futuristic luxury e-commerce platform offering electronics, mobile devices, computing, gaming gear, technical fashion, watches, and smart home lifestyle.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
